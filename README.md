@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SOC**
 
-- 💬 Ask me about **python , hacking** , coding**
+- 💬 Ask me about **python , hacking , coding**
 
 
 <p align="left">
