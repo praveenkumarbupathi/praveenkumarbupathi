@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Cyber**
 
-- 🌱 I’m currently learning **SOC**
+- 🌱 I’m currently learning **NewTechnology**
 
 - 💬 Ask me about **python , hacking , coding**
 
